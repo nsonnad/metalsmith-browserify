@@ -1,0 +1,27 @@
+{
+  "name": "metalsmith-browserify",
+  "version": "0.0.0",
+  "description": "use browserify in your Metalsmith project",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nsonnad/metalsmith-browserify"
+  },
+  "keywords": [
+    "metalsmith"
+  ],
+  "author": "Nikhil Sonnad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsonnad/metalsmith-browserify/issues"
+  },
+  "homepage": "https://github.com/nsonnad/metalsmith-browserify",
+  "dependencies": {
+    "browserify": "^4.1.10",
+    "minimatch": "^0.3.0",
+    "npmlog": "^0.1.1"
+  }
+}
